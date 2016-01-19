@@ -1,1 +1,2 @@
 # Homework-2
+When sending an email, clicking on a link or trying to navigate to a website over the internet you are actually connecting to a server that is physically storing that information.  The servers are called Domain Servers.  Websites and email addresses have domain names (www.wired.com, dparker@hotmail.com) which are made up of a numeric system call internet protocol (IP) which are part of the Domain Naming System (DNS).  When you type a fully actualized domain name, it is sent through one or more servers looking for the domain server where it is physically stored.
